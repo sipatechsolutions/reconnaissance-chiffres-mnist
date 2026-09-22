@@ -1,0 +1,13 @@
+Les polices de ce dossier proviennent du projet Google Fonts et sont
+distribuées sous la licence SIL Open Font License 1.1 (OFL), qui autorise
+leur utilisation et leur redistribution.
+
+- Patrick Hand        (ofl/patrickhand)
+- Caveat              (ofl/caveat)
+- Gochi Hand          (ofl/gochihand)
+- Kalam               (ofl/kalam)
+- Indie Flower        (ofl/indieflower)
+- Architects Daughter (ofl/architectsdaughter)
+- Handlee             (ofl/handlee)
+
+Texte de la licence : https://openfontlicense.org
